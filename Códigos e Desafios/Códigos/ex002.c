@@ -10,7 +10,7 @@ int main(){
 
     total = num1 + num2 * num3 / num4 - 5;
 
-    printf("%i\n", total);
+    printf("%d\n", total);
 
     return 0;
 }

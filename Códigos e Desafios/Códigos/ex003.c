@@ -6,10 +6,10 @@ int main(){
     int altura;
 
     printf("Digite o valor da altura: ");
-    scanf("%i", &altura);
+    scanf("%d", &altura);
 
     printf("Digite o valor da base: ");
-    scanf("%i", &base);
+    scanf("%d", &base);
 
     area = base * altura;
     printf("O valor da área do retangulo é %i \n", area);

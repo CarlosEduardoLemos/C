@@ -7,7 +7,7 @@ int main(){
 
     float resultado = inteiro + decimal;
 
-    printf("A soma de %i e %f é %f%c\n", inteiro, decimal, resultado, caracter);
+    printf("A soma de %d e %f é %f%c\n", inteiro, decimal, resultado, caracter);
 
     return 0;
 }

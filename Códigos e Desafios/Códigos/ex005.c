@@ -6,12 +6,12 @@ int main(){
 
     printf("Utilizando o for: \n");
     for (cont= 0; cont <= 10; cont++){
-        printf("%i\n", cont);
+        printf("%d\n", cont);
     }
 
     printf("Utilizando o While:\n");
     while (num <= 5){
-        printf("%i\n", num);
+        printf("%d\n", num);
         ++num;
     }
     

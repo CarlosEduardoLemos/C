@@ -4,7 +4,7 @@ int main(){
     int idade;
 
     printf("Digite a idade: ");
-    scanf("%i", &idade);
+    scanf("%d", &idade);
 
     if (idade <= 5){
         printf("Bebê.\n");

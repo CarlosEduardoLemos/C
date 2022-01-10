@@ -5,7 +5,7 @@ int main(){
     int resposta = 1;
 
     printf("Digite um valor inteiro: ");
-    scanf("%i", &fatorial);
+    scanf("%d", &fatorial);
 
     int num = fatorial;
 
