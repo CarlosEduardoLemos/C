@@ -12,10 +12,10 @@ int main(){
         printf("Criança.\n");
     } else if (idade > 10 && idade < 18){
         printf("Adolescente.\n");
-    } else{
+    } else if (idade > 17 && idade < 60){
         printf("Adulto.\n");
-    }
-    
-    
+    }else
+        printf("Idoso.\n");
+   
     return 0;
 }
