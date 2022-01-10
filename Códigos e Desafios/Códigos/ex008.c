@@ -14,8 +14,9 @@ int main(){
         printf("Adolescente.\n");
     } else if (idade > 17 && idade < 60){
         printf("Adulto.\n");
-    }else
+    }else{
         printf("Idoso.\n");
-   
+    }
+
     return 0;
 }
