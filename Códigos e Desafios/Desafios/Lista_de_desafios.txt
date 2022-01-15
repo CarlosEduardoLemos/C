@@ -23,7 +23,7 @@ Desafio 008
 Faça um programa que leia um número inteiro qualquer e mostre na tela sua tabuada.
 
 Desafio 009
-Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar (1 dólar no momento em que realizei é de 5,64 reais)
+Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar (1 dólar no momento em que realizei é de 5,53 reais)
 
 Desafio 010
 Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2m^2.
