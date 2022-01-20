@@ -7,7 +7,7 @@ int main(void){
         int segundos;
     };
     
-    struct  horario agora;
+    struct horario agora;
 
     agora.horas = 15;
     agora.minutos = 17;
